@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -39,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
