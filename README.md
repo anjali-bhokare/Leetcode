@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
