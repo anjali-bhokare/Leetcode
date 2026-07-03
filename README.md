@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
 |  |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +118,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
