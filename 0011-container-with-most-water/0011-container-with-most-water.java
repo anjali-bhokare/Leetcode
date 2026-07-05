@@ -2,17 +2,17 @@ class Solution {
     public int maxArea(int[] height) {
         int left = 0;
         int right = height.length - 1;
-        int maxArea = 0;
+        int maxarea = 0;
         while (left < right) {
             int width = right - left;
-            int minHeight = Math.min(height[left], height[right]);
-            maxArea = Math.max(maxArea, minHeight * width);
+            int minheigh = Math.min(height[left], height[right]);
+            maxarea = Math.max(maxarea, width * minheigh);
             if (height[left] < height[right]) {
                 left++;
             } else {
                 right--;
             }
         }
-        return maxArea;
+        return maxarea;
     }
 }
