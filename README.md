@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -54,6 +56,7 @@
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
