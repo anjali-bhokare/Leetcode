@@ -72,6 +72,7 @@
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 | [0584-find-customer-referee](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 <!---LeetCode Topics End-->
