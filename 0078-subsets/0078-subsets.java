@@ -12,4 +12,5 @@ class Solution {
             temp.remove(temp.size()-1);
         }
     }
+
 }
