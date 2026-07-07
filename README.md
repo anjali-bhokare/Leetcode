@@ -95,6 +95,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -173,4 +174,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
