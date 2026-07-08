@@ -22,6 +22,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -162,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Stack
 |  |
@@ -169,6 +171,7 @@
 | [0225-implement-stack-using-queues](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
