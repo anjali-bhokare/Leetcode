@@ -40,6 +40,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0567-permutation-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0443-string-compression](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
