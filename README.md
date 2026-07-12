@@ -26,6 +26,7 @@
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -75,6 +77,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
