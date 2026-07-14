@@ -4,14 +4,14 @@ class Solution {
         int n = board[0].length;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (dfs(board, word, i, j, 0)) {
+                if (dfs(board,word,i,j,0)) {
                     return true;
                 }
             }
         }
         return false;
     }
-    public boolean dfs(char[][] board, String word, int i, int j, int index) {
+    public boolean dfs(char[][] board,String word,int i,int j,int index) {
         if (index == word.length())// word fpunding condition 
         {
             return true;
