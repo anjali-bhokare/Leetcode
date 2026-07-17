@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
