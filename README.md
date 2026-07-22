@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
@@ -263,4 +264,16 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
