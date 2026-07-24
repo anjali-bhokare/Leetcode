@@ -54,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
@@ -211,6 +212,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
