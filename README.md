@@ -71,6 +71,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3136-valid-word](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3136-valid-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -117,6 +118,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -157,6 +159,7 @@
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
