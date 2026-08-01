@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
@@ -114,6 +115,7 @@
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -125,12 +127,14 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -300,4 +304,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
