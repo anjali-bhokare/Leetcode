@@ -187,6 +187,7 @@
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 ## Database
 |  |
@@ -297,6 +299,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
 ## String Matching
 |  |
 | ------- |
