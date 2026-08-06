@@ -124,6 +124,7 @@
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
