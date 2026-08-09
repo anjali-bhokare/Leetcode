@@ -33,6 +33,7 @@
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -136,6 +138,7 @@
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -326,12 +329,19 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
