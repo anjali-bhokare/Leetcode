@@ -24,11 +24,9 @@ class Solution {
         if (board[i][j] != word.charAt(index)) {
             return false;
         }
-
 // visited element mark as#
         char temp = board[i][j];
         board[i][j] = '#';
-
 //explore all the sides of the #
         boolean found =
                 dfs(board, word, i + 1, j, index + 1) ||
