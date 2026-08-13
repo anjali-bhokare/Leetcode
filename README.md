@@ -19,6 +19,7 @@
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
