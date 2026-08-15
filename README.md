@@ -352,4 +352,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
