@@ -126,6 +126,7 @@
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +198,7 @@
 | [0046-permutations](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
