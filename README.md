@@ -42,6 +42,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@
 | [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
