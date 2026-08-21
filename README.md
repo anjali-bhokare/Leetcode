@@ -54,6 +54,7 @@
 | [0041-first-missing-positive](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
@@ -73,6 +74,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -130,6 +132,7 @@
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0396-rotate-function](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
