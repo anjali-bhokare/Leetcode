@@ -86,6 +86,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3136-valid-word) |
@@ -141,6 +142,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -192,6 +194,7 @@
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
@@ -358,6 +361,7 @@
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
