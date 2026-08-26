@@ -75,6 +75,7 @@
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
