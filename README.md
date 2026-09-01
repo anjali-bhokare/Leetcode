@@ -61,6 +61,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,6 +142,7 @@
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
@@ -189,6 +191,7 @@
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -402,4 +405,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
