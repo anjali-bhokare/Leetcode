@@ -272,6 +272,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
