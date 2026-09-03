@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -398,6 +399,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
 ## Bracket Sequences
 |  |
