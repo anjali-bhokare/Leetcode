@@ -51,6 +51,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
+| [3903-smallest-stable-index-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bracket Sequences
 |  |
 | ------- |
