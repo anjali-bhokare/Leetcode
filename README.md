@@ -114,6 +114,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -266,6 +267,7 @@
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
