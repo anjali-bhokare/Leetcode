@@ -149,6 +149,7 @@
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0202-happy-number) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0396-rotate-function) |
@@ -189,6 +191,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
