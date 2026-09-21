@@ -50,6 +50,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3524-find-x-value-of-array-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -167,6 +168,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -183,6 +185,7 @@
 | [0509-fibonacci-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1140-stone-game-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
