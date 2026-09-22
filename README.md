@@ -447,4 +447,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0037-sudoku-solver) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
