@@ -189,6 +189,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0148-sort-list) |
