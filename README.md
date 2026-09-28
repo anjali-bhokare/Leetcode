@@ -99,6 +99,7 @@
 | [0567-permutation-in-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -323,6 +324,7 @@
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
