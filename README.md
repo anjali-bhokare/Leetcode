@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0071-simplify-path) |
@@ -176,6 +177,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0077-combinations) |
@@ -436,6 +439,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Increasing Subsequence
 |  |
