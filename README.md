@@ -90,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -155,6 +156,7 @@
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0136-single-number) |
@@ -314,6 +317,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 | [1103-distribute-candies-to-people](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1260-shift-2d-grid) |
