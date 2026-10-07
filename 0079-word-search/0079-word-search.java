@@ -20,20 +20,20 @@ class Solution {
         {
             return false;
         }
-// char not  match
+// char not  match(here we have to cheack the conditon opps to the original one)
         if (board[i][j] != word.charAt(index)) {
             return false;
         }
-// visited element mark as#
+// visited element mark as# so that we will find easily how many elements are visited
         char temp = board[i][j];
         board[i][j] = '#';
-//explore all the sides of the #
+//explore all the sides of the marked elements to find the exact words
         boolean found =
                 dfs(board, word, i + 1, j, index + 1) ||
                 dfs(board, word, i - 1, j, index + 1) ||
                 dfs(board, word, i, j + 1, index + 1) ||
                 dfs(board, word, i, j - 1, index + 1);
-        //backtrack
+        // and finally backtrack
         board[i][j] = temp;
         return found;
     }
