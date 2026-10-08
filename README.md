@@ -101,6 +101,7 @@
 | [0443-string-compression](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -336,6 +337,7 @@
 | [0234-palindrome-linked-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
@@ -450,6 +452,7 @@
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Increasing Subsequence
 |  |
