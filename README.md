@@ -39,6 +39,7 @@
 | [0486-predict-the-winner](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0877-stone-game) |
@@ -288,6 +289,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
