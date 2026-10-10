@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0118-pascals-triangle) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0217-contains-duplicate) |
@@ -220,6 +222,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -489,4 +492,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
