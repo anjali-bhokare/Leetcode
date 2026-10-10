@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0190-reverse-bits) |
@@ -185,6 +187,7 @@
 | [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0118-pascals-triangle) |
