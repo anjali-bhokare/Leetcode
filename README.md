@@ -15,6 +15,7 @@
 | [0037-sudoku-solver](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -228,6 +230,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0148-sort-list) |
@@ -347,6 +350,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -414,6 +418,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
