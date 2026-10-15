@@ -511,6 +511,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
