@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -192,6 +193,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -223,6 +225,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0016-3sum-closest) |
@@ -517,4 +520,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
