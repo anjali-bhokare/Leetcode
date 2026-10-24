@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0136-single-number) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0190-reverse-bits) |
@@ -433,18 +435,21 @@
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0112-path-sum) |
 ## String Matching
