@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/anjali-bhokare/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0079-word-search) |
@@ -174,6 +175,7 @@
 | [0029-divide-two-integers](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/anjali-bhokare/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0089-gray-code) |
