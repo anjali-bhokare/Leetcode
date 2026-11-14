@@ -297,6 +297,7 @@
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
@@ -337,6 +338,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -441,6 +443,7 @@
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0112-path-sum) |
@@ -455,6 +458,7 @@
 | [0098-validate-binary-search-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anjali-bhokare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anjalibhokare1306-afk/Leetcode/tree/master/0112-path-sum) |
